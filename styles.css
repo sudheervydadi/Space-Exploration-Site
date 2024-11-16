@@ -4,6 +4,7 @@ body {
   text-align: center;
   display: block;
   margin: 0 auto;
+  font-family: 'Orbitron', sans-serif;
 }
 
 .heading {
@@ -16,4 +17,5 @@ body {
   padding: 5px 15px;
   border: solid 1px white;
   border-radius: 5px;
+  font-family: 'Orbitron', sans-serif;
 }
