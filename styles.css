@@ -1,4 +1,19 @@
 body {
   background-image: url('images/universe.jpg');
   background-size: cover;
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+.heading {
+  color: blanchedalmond;
+  margin-top: 50px;
+}
+
+.btn {
+  margin-top: 50px;
+  padding: 5px 15px;
+  border: solid 1px white;
+  border-radius: 5px;
 }
