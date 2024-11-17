@@ -23,3 +23,6 @@ body {
   border-bottom: 4px solid white;
   /* text-decoration: underline; */
 }
+#main-logo {
+  width: 300px;
+}
